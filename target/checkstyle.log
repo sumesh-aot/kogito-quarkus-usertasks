@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.34">
+<file name="/Users/aot/projects/internal/kogito-quarkus-usertasks/src/main/java/aot/formsflow/ProcessDefinition.java">
+</file>
+<file name="/Users/aot/projects/internal/kogito-quarkus-usertasks/src/main/java/aot/formsflow/TaskManagementResource.java">
+</file>
+<file name="/Users/aot/projects/internal/kogito-quarkus-usertasks/src/main/java/aot/formsflow/TasksResource.java">
+</file>
+<file name="/Users/aot/projects/internal/kogito-quarkus-usertasks/src/main/java/aot/formsflow/ProcessResource.java">
+</file>
+<file name="/Users/aot/projects/internal/kogito-quarkus-usertasks/src/main/java/aot/formsflow/Task.java">
+</file>
+<file name="/Users/aot/projects/internal/kogito-quarkus-usertasks/src/main/java/aot/formsflow/ProcessStartPayload.java">
+</file>
+<file name="/Users/aot/projects/internal/kogito-quarkus-usertasks/src/test/java/org/acme/travels/quarkus/ApprovalsProcessTest.java">
+</file>
+<file name="/Users/aot/projects/internal/kogito-quarkus-usertasks/src/main/resources/application.properties">
+</file>
+<file name="/Users/aot/projects/internal/kogito-quarkus-usertasks/src/test/resources/application.properties">
+</file>
+</checkstyle>

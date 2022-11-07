@@ -1,0 +1,6 @@
+aot/formsflow/ProcessDefinition.class
+aot/formsflow/ProcessStartPayload.class
+aot/formsflow/Task.class
+aot/formsflow/TasksResource.class
+aot/formsflow/ProcessResource.class
+aot/formsflow/TaskManagementResource.class
